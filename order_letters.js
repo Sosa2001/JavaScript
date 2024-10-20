@@ -1,4 +1,4 @@
-let lista = ["manzana", 10, 20, "pera", "banana", "naranja", "uva"];
+let lista = ["manzana", "limon", 10, 20, "pera", "banana", "naranja", "uva", "sandia"];
 
 let palabras = [];
 
@@ -18,4 +18,4 @@ for (let i = 0; i < palabras.length - 1; i++) {
     }
 }
 
-console.log('Palabras ordenadas:', palabras);
+console.log('Palabras ordenadas:', palabras); 
